@@ -1,0 +1,8 @@
+openai
+pandas
+numpy
+requests
+comet-llm
+python-dotenv
+langchain
+langchain_openai

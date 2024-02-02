@@ -6,3 +6,7 @@ comet-llm
 python-dotenv
 langchain
 langchain_openai
+gradio
+transformers
+comet_ml
+torch

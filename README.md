@@ -18,3 +18,8 @@ Clickbait:
 Non-Clickbait:
 
 ![2_non-clickbait_example](https://github.com/sachs7/Learn-LLMOps/assets/3032301/a750e1fc-c14a-4c94-9117-07d88d8543e5)
+
+
+# Certification
+
+1. [Learn-LLMOps](https://github.com/sachs7/Learn-LLMOps/blob/main/Certificate.png)
